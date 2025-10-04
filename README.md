@@ -18,20 +18,16 @@ Permite al usuario ingresar una moneda base, una moneda destino y un monto, para
 - Se utiliza la librería **Gson** para transformar la respuesta JSON en un objeto Java.
 - Se calcula y muestra en consola el valor convertido.
 
----
-
 ## Requisitos
 
 - Java 17 (o superior)
 - Librería externa: gson-2.10.1.jar
 - Conexión a Internet para consultar la API
 
----
-
 ## Instalación y ejecución
 
 1. Clonar este repositorio.
 2. Asegurarse de tener `gson-2.10.1.jar` en la carpeta del proyecto.
-3. Ejecutar el codigo desde la clase (`Principal.java`)
+3. Ejecutar el codigo desde la clase `Principal.java`
 
 
